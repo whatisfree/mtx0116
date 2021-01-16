@@ -1,0 +1,21 @@
+[ {
+  "uid" : "1dc947a15a1bb453",
+  "name" : "购物车商品测试-删除商品测试",
+  "time" : {
+    "start" : 1610801884031,
+    "stop" : 1610801894344,
+    "duration" : 10313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbc375f0e96db2ea",
+  "name" : "购物车商品测试-添加商品测试",
+  "time" : {
+    "start" : 1610801874141,
+    "stop" : 1610801883164,
+    "duration" : 9023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.test_cart",
+    "children" : [ {
+      "name" : "购物车商品测试-添加商品测试",
+      "uid" : "bbc375f0e96db2ea",
+      "parentUid" : "6e87b1b31c9dc01945dd7250310f30b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610801874141,
+        "stop" : 1610801883164,
+        "duration" : 9023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "购物车商品测试-删除商品测试",
+      "uid" : "1dc947a15a1bb453",
+      "parentUid" : "6e87b1b31c9dc01945dd7250310f30b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610801884031,
+        "stop" : 1610801894344,
+        "duration" : 10313
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "case.test_cart"
+  } ]
+}

@@ -1,0 +1,18 @@
+INFO     root:baseApi.py:109 Execute JavaScript scripts. window.scrollTo(0,document.body.scrollHeight)
+INFO     root:baseApi.py:34 正在点击:('xpath', '//a[text()="ZK星星绣花雪纺连衣裙中长款sukol裙少女心温柔超仙女chic裙子夏"]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '//a[text()="ZK星星绣花雪纺连衣裙中长款sukol裙少女心温柔超仙女chic裙子夏"]')元素，最多等待:30秒
+INFO     root:baseApi.py:45 切换到目标窗口，标题为：ZK爆款连衣裙
+INFO     root:baseApi.py:34 正在点击:('xpath', '//form[@name="loginform"]/div[1]/div[1]/ul/li[1]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '//form[@name="loginform"]/div[1]/div[1]/ul/li[1]')元素，最多等待:30秒
+INFO     root:baseApi.py:34 正在点击:('xpath', '//li[@data-value="M"]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '//li[@data-value="M"]')元素，最多等待:30秒
+INFO     root:baseApi.py:34 正在点击:('xpath', '//button[text()="加入购物车"]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '//button[text()="加入购物车"]')元素，最多等待:30秒
+INFO     root:baseApi.py:34 正在点击:('xpath', '//span[text()="购物车"]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '//span[text()="购物车"]')元素，最多等待:30秒
+INFO     root:baseApi.py:34 正在点击:('xpath', '(//a[text()="删除"])[1]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '(//a[text()="删除"])[1]')元素，最多等待:30秒
+INFO     root:baseApi.py:34 正在点击:('xpath', '//span[text()="确定"]')元素
+INFO     root:baseApi.py:29 正在查找元素:('xpath', '//span[text()="确定"]')元素，最多等待:30秒
+INFO     root:baseApi.py:34 正在点击:('css selector', 'div#doc-topbar-collapse>ul>li:nth-child(1)>a')元素
+INFO     root:baseApi.py:29 正在查找元素:('css selector', 'div#doc-topbar-collapse>ul>li:nth-child(1)>a')元素，最多等待:30秒

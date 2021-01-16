@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 16 20:57:54 CST 2021","Sat Jan 16 20:58:03 CST 2021","9023","case","test_cart","TestCart","","","购物车商品测试-添加商品测试",""
+"passed","Sat Jan 16 20:58:04 CST 2021","Sat Jan 16 20:58:14 CST 2021","10313","case","test_cart","TestCart","","","购物车商品测试-删除商品测试",""

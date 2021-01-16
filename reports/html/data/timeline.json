@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "liuzhigang",
+    "children" : [ {
+      "name" : "14316-MainThread",
+      "children" : [ {
+        "name" : "购物车商品测试-添加商品测试",
+        "uid" : "bbc375f0e96db2ea",
+        "parentUid" : "626a99a893a44c1d9a7c6a5400074cf2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610801874141,
+          "stop" : 1610801883164,
+          "duration" : 9023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "购物车商品测试-删除商品测试",
+        "uid" : "1dc947a15a1bb453",
+        "parentUid" : "626a99a893a44c1d9a7c6a5400074cf2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610801884031,
+          "stop" : 1610801894344,
+          "duration" : 10313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "626a99a893a44c1d9a7c6a5400074cf2"
+    } ],
+    "uid" : "8a6d2390fe9fa7b7ebe9147ab5c1caf1"
+  } ]
+}
